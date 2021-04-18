@@ -1,2 +1,0 @@
-# Avatar Panel Component
-The avatar panel component follows the avatar around and contains text/information regarding the avatar. This repository contains scripts on the individual components to check for avatar rotations, set entity positions/rotations, and add entities to an avatar. It also has the combined script to fully create and add the avatar panel component. The drag-scale feature and hover effect are courtesy of Vincent Davies, visit hover-shape-component repository for more details.
